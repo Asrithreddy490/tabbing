@@ -1,0 +1,13 @@
+# -------- Core Dependencies --------
+streamlit==1.37.0
+pandas==2.2.2
+numpy==1.26.4
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# Optional (used in older Excel files, safe to include)
+et-xmlfile==1.1.0
+
+# -------- Development / Utility --------
+# If you use pyproject-based builds or need typing
+typing-extensions>=4.0.0

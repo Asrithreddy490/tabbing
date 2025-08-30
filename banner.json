@@ -1,0 +1,12 @@
+[
+    {
+        "id": "A",
+        "label": "Total",
+        "condition": null
+    },
+    {
+        "id": "B",
+        "label": "Global",
+        "condition": "vboost==1"
+    }
+]
